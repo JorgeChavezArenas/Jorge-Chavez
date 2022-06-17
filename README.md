@@ -10,3 +10,4 @@ const jorge = {
  challenge: 'estoy aprendiendo dia con dia mas sobre programacion y espero llegar a realizar muchos proyectos.. '
 }
 ```
+from @jorgeChavezArenas
